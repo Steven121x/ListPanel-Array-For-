@@ -1,0 +1,10 @@
+C:\Users\steven\source\repos\ForeachYFor\ForeachYFor\bin\Debug\ForeachYFor.exe.config
+C:\Users\steven\source\repos\ForeachYFor\ForeachYFor\bin\Debug\ForeachYFor.exe
+C:\Users\steven\source\repos\ForeachYFor\ForeachYFor\bin\Debug\ForeachYFor.pdb
+C:\Users\steven\source\repos\ForeachYFor\ForeachYFor\obj\Debug\ForeachYFor.Form1.resources
+C:\Users\steven\source\repos\ForeachYFor\ForeachYFor\obj\Debug\ForeachYFor.Properties.Resources.resources
+C:\Users\steven\source\repos\ForeachYFor\ForeachYFor\obj\Debug\ForeachYFor.csproj.GenerateResource.cache
+C:\Users\steven\source\repos\ForeachYFor\ForeachYFor\obj\Debug\ForeachYFor.csproj.CoreCompileInputs.cache
+C:\Users\steven\source\repos\ForeachYFor\ForeachYFor\obj\Debug\ForeachYFor.exe
+C:\Users\steven\source\repos\ForeachYFor\ForeachYFor\obj\Debug\ForeachYFor.pdb
+C:\Users\steven\source\repos\ForeachYFor\ForeachYFor\obj\Debug\ForeachYFor.csproj.AssemblyReference.cache
